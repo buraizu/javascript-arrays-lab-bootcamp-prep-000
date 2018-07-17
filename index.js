@@ -22,5 +22,7 @@ function appendKitten(name) {
   kittens.concat(name);
 }
 
+appendKitten('Broom');
+
 
 
